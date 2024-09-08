@@ -1,6 +1,10 @@
 ﻿# Welcome to the **MERN E-Commerce Server**! 🎉
 Hi there! I'm **Muhammad Abdullah**, and I built this MERN stack application as part of my learning journey in web development. This project serves as a foundation for understanding how to create a full-stack e-commerce application using MongoDB, Express.js, React, and Node.js. for better understanding look into **example.env** file for setting up environment variables.
 
+## Server Link
+Deployed on render.com
+Link: https://ecomm-laptop-backend.onrender.com
+
 ## 🚀 Getting Started
 ## Prerequisites
 To run this project, you'll need to have the following software installed: - **Node.js** (Version: `20.10.0`) - **NPM** (Version: `10.2.3`)
